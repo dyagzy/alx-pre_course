@@ -1,2 +1,2 @@
 # alx-pre_course
-This is an ALX SE Git practice repository
+I'm now a ALX Student, this is my first repository as a full-stack engineer
